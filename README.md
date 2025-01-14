@@ -26,7 +26,7 @@ FacePick is a sleek and intuitive Android application that detects faces from a 
 <h2 style="font-size:36px;">Screenshots</h2>
 
 <div style="display: flex; justify-content: space-around; align-items: center;">
-  <img src="Screenshot/splash.png"  width="200px" height="400px">
-  <img src="Screenshot/home.png" width="200px" height="400px">
-  <img src="Screenshot/working.png"  width="200px" height="400px">
+  <img src="screenshot/splash.png"  width="200px" height="400px">
+  <img src="screenshot/home.png" width="200px" height="400px">
+  <img src="screenshot/working.png"  width="200px" height="400px">
 </div>
